@@ -58,7 +58,7 @@ for(i=1;i<M-1;i++)
 {
 for(j=1;j<M-1;j++)
 {
-a[i[][j]=b[y];
+a[i][j]=b[y];
 y++;
 }
 }
@@ -83,7 +83,7 @@ System.out.print(a[i][j] + "\t");
 else
 System.out.print("\t");
 }
-System.out.println():
+System.out.println();
 }
 System.out.println("Sum of diagonal Elements:" +sum);
 }
